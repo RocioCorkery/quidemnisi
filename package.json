@@ -1,0 +1,37 @@
+{
+  "author": "FlossieSpencer",
+  "dependencies": {
+    "date-holidays": "^1.2.0",
+    "lodash": "^4.17.4",
+    "moment": "^2.20.1",
+    "vue": "^2.1.10",
+    "vuelidate": "^0.7.4"
+  },
+  "description": "Typescript-vue helpers",
+  "devDependencies": {
+    "@types/lodash": "^4.14.85",
+    "grunt": "^1.0.1",
+    "grunt-ts": "^6.0.0-beta.17",
+    "typescript": "^2.6.1"
+  },
+  "directories": {},
+  "keywords": [
+    "et",
+    "quia"
+  ],
+  "license": "ISC",
+  "main": "js/index.js",
+  "maintainers": [
+    {
+      "name": "willypuzzle",
+      "email": "domenico.rizzo@gmail.com"
+    }
+  ],
+  "name": "quidemnisi",
+  "optionalDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RocioCorkery/quidemnisi.git"
+  },
+  "version": "1.0.0"
+}
